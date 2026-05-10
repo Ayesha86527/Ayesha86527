@@ -6,35 +6,49 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-noman)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-noman-268656321/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshanoman490@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-```python
-class AyeshaNoman:
-    role       = "AI & Automation Engineer"
-    location   = "Karachi, Pakistan 🇵🇰"
-    education  = "Software Engineering @ NED University"
+I'm an AI & Automation Engineer with **1+ years** of experience building intelligent systems that ship — not demos, but production-grade pipelines delivered end-to-end to real clients and startups.
 
-    skills     = ["LLM Orchestration", "RAG Pipelines", "AI Agents",
-                  "Workflow Automation", "Finetuning", "Voice AI"]
+I work across the full AI stack: designing multi-agent architectures with LangGraph, building RAG systems over custom knowledge bases, orchestrating LLM workflows with LangChain and LlamaIndex, and automating complex business processes. From a pharmacogenomic prescribing agent to real-time voice AI bots, my projects sit at the intersection of deep technical craft and tangible business impact.
 
-    currently  = "Building production-grade agentic AI systems"
-    ask_me     = "LangChain · LangGraph · n8n · RAG · Prompt Engineering"
-```
+Currently based in **Karachi, Pakistan** — studying Software Engineering at **NED University** while shipping production AI in parallel.
 
 ---
 
-## ⚙️ Technical Skills
+## Craft
 
-> `Natural Language Processing` &nbsp;·&nbsp; `Retrieval Augmented Generation (RAG)` &nbsp;·&nbsp; `AI Automation`
-> `AI Agents & Chatbot Development` &nbsp;·&nbsp; `LLM Orchestration & Prompt Engineering`
-> `Finetuning LLMs` &nbsp;·&nbsp; `Text-to-Speech (TTS)` &nbsp;·&nbsp; `Automatic Speech Recognition (ASR)`
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**What I specialize in**
+
+— Natural Language Processing
+— Retrieval Augmented Generation (RAG)
+— AI Agents & Chatbot Development
+— LLM Orchestration & Prompt Engineering
+— Finetuning Large Language Models
+— Text-to-Speech & Speech Recognition
+— End-to-End AI Automation
+
+  </td>
+  <td valign="top" width="50%">
+
+**How I think about AI**
+
+I build systems that are *reliable by design* — structured outputs, grounded retrieval, and deterministic pipelines over vibes-based prompting. Every production system I deliver is architected to fail gracefully, scale predictably, and actually solve the problem it was built for.
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -110,14 +124,12 @@ class AyeshaNoman:
 
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
 
 Open to **AI/ML collaborations**, **research partnerships**, and **freelance AI automation projects**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Noman-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-noman-268656321/)
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshanoman490@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Noman-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-noman)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <br/>
 
