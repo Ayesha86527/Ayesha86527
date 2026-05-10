@@ -111,6 +111,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-2d0050?style=for-the-badge&logo=openai&logoColor=f0abfc)
 ![Claude](https://img.shields.io/badge/Claude%20API-2d0050?style=for-the-badge&logo=anthropic&logoColor=f0abfc)
 ![Ollama](https://img.shields.io/badge/Ollama-2d0050?style=for-the-badge&logo=ollama&logoColor=f0abfc)
+![n8n](https://img.shields.io/badge/n8n-2d0050?style=for-the-badge&logo=n8n&logoColor=f0abfc)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-2d0050?style=for-the-badge&logoColor=f0abfc)
 ![Whisper](https://img.shields.io/badge/Whisper-2d0050?style=for-the-badge&logo=openai&logoColor=f0abfc)
 ![Vosk](https://img.shields.io/badge/Vosk-2d0050?style=for-the-badge&logoColor=f0abfc)
@@ -145,6 +146,8 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d0050?style=for-the-badge&logo=postgresql&logoColor=f0abfc)
 ![Oracle](https://img.shields.io/badge/Oracle-2d0050?style=for-the-badge&logo=oracle&logoColor=f0abfc)
+![Supabase](https://img.shields.io/badge/Supabase-2d0050?style=for-the-badge&logo=supabase&logoColor=f0abfc)
+![MongoDB](https://img.shields.io/badge/MongoDB-2d0050?style=for-the-badge&logo=mongodb&logoColor=f0abfc)
 ![Pinecone](https://img.shields.io/badge/Pinecone-2d0050?style=for-the-badge&logoColor=f0abfc)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-2d0050?style=for-the-badge&logo=googlecloud&logoColor=f0abfc)
 
