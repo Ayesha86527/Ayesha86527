@@ -201,4 +201,4 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0080,40:2d0050,70:1a0030,100:0d0015&height=130&section=footer" />type=waving&color=0:6a0080,40:2d0050,70:1a0030,100:0d0015&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0080,40:2d0050,70:1a0030,100:0d0015&height=130&section=footer" />
