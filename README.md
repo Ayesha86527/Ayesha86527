@@ -8,8 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-noman)
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-noman-268656321/)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshanoman490@gmail.com)
 
 </div>
 
@@ -21,15 +21,63 @@
 
 <div align="center">
 
-<table border="0" width="92%"><tr><td>
+<table border="0" width="92%"><tr><td align="center">
 
-> **AI & Automation Engineer.** 1+ year delivering end-to-end production systems to startups and clients — not prototypes, not demos. Real systems, in production, solving real problems.
->
-> I design multi-agent architectures, build RAG pipelines over custom knowledge bases, and automate complex business workflows from scratch. From pharmacogenomic prescribing agents to real-time voice AI bots — every project ships.
->
-> 📍 **NED University** · Software Engineering · Karachi, Pakistan 🇵🇰
+![](https://img.shields.io/badge/Enterprise%20%26%20SME%20Clients-2d0050?style=for-the-badge&logoColor=f0abfc)
+&nbsp;
+![](https://img.shields.io/badge/Agentic%20Systems-a855f7?style=for-the-badge&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/Intelligent%20Automation-ec4899?style=for-the-badge&logoColor=white)
+
+</td></tr>
+<tr><td>
+
+&nbsp;
+
+> *AI Engineer specializing in agentic systems and intelligent automation. I build LLM-powered chatbots, AI agents, and RAG pipelines that solve real business problems — from backend architecture to production-ready deployments. I don't ship demos. I ship systems that work.*
+
+&nbsp;
 
 </td></tr></table>
+
+&nbsp;
+
+<table border="0" width="92%">
+<tr>
+<td align="center" width="25%">
+
+### `1+`
+**Years Building**<br/>**AI Systems**
+
+</td>
+<td align="center" width="25%">
+
+### `5+`
+**Production**<br/>**Projects Shipped**
+
+</td>
+<td align="center" width="25%">
+
+### `10+`
+**Hours Saved**<br/>**Per Client Weekly**
+
+</td>
+<td align="center" width="25%">
+
+### `1`
+**Stealth Startup**<br/>**In Progress**
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+![](https://img.shields.io/badge/NED%20University-2d0050?style=flat-square&color=6b21a8&logoColor=f0abfc)
+&nbsp;
+![](https://img.shields.io/badge/Software%20Engineering-2d0050?style=flat-square&color=6b21a8&logoColor=f0abfc)
+&nbsp;
+![](https://img.shields.io/badge/Karachi%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-2d0050?style=flat-square&color=6b21a8&logoColor=f0abfc)
 
 </div>
 
@@ -153,6 +201,19 @@
 
 </td></tr>
 
+<tr><td align="center" colspan="2"><br/>
+
+![](https://img.shields.io/badge/ACCELERATORS-a855f7?style=for-the-badge)
+
+</td></tr>
+<tr><td align="center" colspan="2">
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-2d0050?style=for-the-badge&logo=anthropic&logoColor=f0abfc)
+![Google Antigravity](https://img.shields.io/badge/Google%20Agentspace-2d0050?style=for-the-badge&logo=google&logoColor=f0abfc)
+![Lovable](https://img.shields.io/badge/Lovable-2d0050?style=for-the-badge&logoColor=f0abfc)
+
+</td></tr>
+
 </table>
 </div>
 
@@ -192,13 +253,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Noman-a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-noman-268656321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Noman-a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-noman)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshanoman490@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ayesha86527&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
+
 
 </div>
 
