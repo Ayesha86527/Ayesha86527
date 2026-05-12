@@ -179,7 +179,6 @@ Architecture decisions are made before the first line of code — not after the 
 ![Vosk](https://img.shields.io/badge/Vosk-0d1f1f?style=for-the-badge&logoColor=7fffd4)
 ![gTTS](https://img.shields.io/badge/gTTS-0d1f1f?style=for-the-badge&logo=google&logoColor=7fffd4)
 ![FAISS](https://img.shields.io/badge/FAISS-0d1f1f?style=for-the-badge&logo=meta&logoColor=7fffd4)
-![Pinecone](https://img.shields.io/badge/Pinecone-0d1f1f?style=for-the-badge&logoColor=7fffd4)
 
 </td></tr>
 
@@ -223,7 +222,7 @@ Architecture decisions are made before the first line of code — not after the 
 <tr><td align="center" colspan="2">
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-0d1f1f?style=for-the-badge&logo=anthropic&logoColor=7fffd4)
-![Google Agentspace](https://img.shields.io/badge/Google%20Agentspace-0d1f1f?style=for-the-badge&logo=google&logoColor=7fffd4)
+![Google Antigravity](https://img.shields.io/badge/Google%20Agentspace-0d1f1f?style=for-the-badge&logo=google&logoColor=7fffd4)
 ![Lovable](https://img.shields.io/badge/Lovable-0d1f1f?style=for-the-badge&logoColor=7fffd4)
 
 </td></tr>
@@ -274,14 +273,6 @@ Architecture decisions are made before the first line of code — not after the 
 <div align="center">
 
 *Open to AI/ML collaborations, research partnerships, and freelance AI automation projects.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Noman-0e7c7b?style=for-the-badge&logo=linkedin&logoColor=7fffd4)](https://www.linkedin.com/in/ayesha-noman-268656321/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-17c3b2?style=for-the-badge&logo=gmail&logoColor=0d1f1f)](mailto:ayeshanoman490@gmail.com)
-
-<br/>
 
 </div>
 
