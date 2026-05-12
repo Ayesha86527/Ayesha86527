@@ -179,6 +179,7 @@ Architecture decisions are made before the first line of code — not after the 
 ![Vosk](https://img.shields.io/badge/Vosk-0d1f1f?style=for-the-badge&logoColor=7fffd4)
 ![gTTS](https://img.shields.io/badge/gTTS-0d1f1f?style=for-the-badge&logo=google&logoColor=7fffd4)
 ![FAISS](https://img.shields.io/badge/FAISS-0d1f1f?style=for-the-badge&logo=meta&logoColor=7fffd4)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1f1f?style=for-the-badge&logoColor=7fffd4)
 
 </td></tr>
 
@@ -222,7 +223,7 @@ Architecture decisions are made before the first line of code — not after the 
 <tr><td align="center" colspan="2">
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-0d1f1f?style=for-the-badge&logo=anthropic&logoColor=7fffd4)
-![Google Antigravity](https://img.shields.io/badge/Google%20Agentspace-0d1f1f?style=for-the-badge&logo=google&logoColor=7fffd4)
+![Google Agentspace](https://img.shields.io/badge/Google%20Agentspace-0d1f1f?style=for-the-badge&logo=google&logoColor=7fffd4)
 ![Lovable](https://img.shields.io/badge/Lovable-0d1f1f?style=for-the-badge&logoColor=7fffd4)
 
 </td></tr>
@@ -235,15 +236,131 @@ Architecture decisions are made before the first line of code — not after the 
 ## &nbsp;✦ Featured Projects
 
 <div align="center">
+
+---
+
+### ⚡ Watthai — Karachi Energy Intelligence Platform
+
 <table border="0" width="92%">
-<tr><td align="center">
+<tr>
+<td valign="top" width="68%">
 
-![](https://img.shields.io/badge/COMING%20SOON-0e7c7b?style=for-the-badge&logoColor=7fffd4)
+> *K-Electric bills are opaque. Loadshedding is unpredictable. Watthai fixes both.*
 
-*Case studies and repos dropping shortly. Each one a real system, built for a real problem.*
+An AI-powered energy management platform built specifically for Karachi's electricity ecosystem. Snap a photo of your K-Electric bill — Watthai's OCR + Gemini 2.5 Flash pipeline extracts it, detects anomalies in Fuel Cost Adjustments, benchmarks your usage against your zone, and delivers rupee-denominated savings advice in English and Urdu. A crowdsourced outage network validates real-time power failures community-wide, deployed as a full PWA.
 
-</td></tr>
+</td>
+<td valign="top" width="32%" align="center">
+
+![](https://img.shields.io/badge/Next.js%2015-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/TypeScript-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/Gemini%202.5%20Flash-0d1f1f?style=flat-square&color=17c3b2&logoColor=0d1f1f)
+![](https://img.shields.io/badge/Cloud%20Vision%20OCR-0d1f1f?style=flat-square&color=17c3b2&logoColor=0d1f1f)
+![](https://img.shields.io/badge/Firebase-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/PWA-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+
+&nbsp;
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7fffd4?style=for-the-badge&logo=github&logoColor=0d1f1f)](https://github.com/Ayesha86527/Watthai)
+
+</td>
+</tr>
 </table>
+
+---
+
+### 🌍 ZameendarAI — Global Land Suitability Intelligence
+
+<table border="0" width="92%">
+<tr>
+<td valign="top" width="68%">
+
+> *Click anywhere on Earth. Get a data-driven verdict in seconds.*
+
+An AI decision-support platform that scores any location on Earth for Agriculture, Housing, Industry, and Renewables suitability. Synthesizes live environmental telemetry — weather, AQI, elevation, population density — through a specialized Gemini 2.0 scoring pipeline with hard constraint logic (temperature extremes, category-specific rules). Returns ranked scores, an overall insight, actionable next steps, and tracks multi-session analysis history. Environmental guardrails prevent meaningless results for uninhabitable zones.
+
+</td>
+<td valign="top" width="32%" align="center">
+
+![](https://img.shields.io/badge/Next.js%2015-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/Gemini%202.0%20Flash-0d1f1f?style=flat-square&color=17c3b2&logoColor=0d1f1f)
+![](https://img.shields.io/badge/Vercel%20AI%20SDK-0d1f1f?style=flat-square&color=17c3b2&logoColor=0d1f1f)
+![](https://img.shields.io/badge/Google%20Maps%20API-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/Open%20Meteo-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/Recharts-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+
+&nbsp;
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7fffd4?style=for-the-badge&logo=github&logoColor=0d1f1f)](https://github.com/Ayesha86527/ZameendarAI)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-17c3b2?style=for-the-badge&logo=vercel&logoColor=0d1f1f)](https://zameendar-ai.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧬 PharmaGene — AI Prescription Safety Agent
+
+<table border="0" width="92%">
+<tr>
+<td valign="top" width="68%">
+
+> *Hallucination in a medical AI isn't a bug. It's a patient safety risk. PharmaGene doesn't hallucinate.*
+
+A clinician-facing AI agent that reduces medication errors by cross-referencing patient records, genetic markers, and drug interaction databases against FDA, WHO, and PubMed guidelines. Combines FAISS vector retrieval with LangGraph orchestration and GPT-OSS-120B reasoning to surface personalized, explainable prescribing insights in real-time. Every recommendation is grounded in retrieved evidence — not model memory. Deployed live on Streamlit.
+
+</td>
+<td valign="top" width="32%" align="center">
+
+![](https://img.shields.io/badge/Python-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/LangChain%20%2B%20LangGraph-0d1f1f?style=flat-square&color=17c3b2&logoColor=0d1f1f)
+![](https://img.shields.io/badge/FAISS-0d1f1f?style=flat-square&color=17c3b2&logoColor=0d1f1f)
+![](https://img.shields.io/badge/GPT--OSS--120B-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/Streamlit-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/Pharmacogenomics-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+
+&nbsp;
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7fffd4?style=for-the-badge&logo=github&logoColor=0d1f1f)](https://github.com/Ayesha86527/PharmaGene-AI-Powered-Decision-Support-Agent-for-Safer-Medical-Prescriptions)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-17c3b2?style=for-the-badge&logo=streamlit&logoColor=0d1f1f)](https://pharmagene-fahxxmrjfwhaqxwdtnkifw.streamlit.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📚 RAG + Fine-Tuned Q&A — Citable Document Intelligence
+
+<table border="0" width="92%">
+<tr>
+<td valign="top" width="68%">
+
+> *Any answer without a citation is just a guess. This system always shows its work.*
+
+A production-grade RAG pipeline built on a QLoRA fine-tuned Mistral 7B Instruct model, tuned specifically for strict output compliance — every answer is capped at three sentences and requires a mandatory `[Chunk ID / Page / Timestamp]` citation. Documents are ingested via a FastAPI `/upload/` endpoint, chunked, embedded, and indexed into FAISS. The `/QA/` endpoint executes full retrieval-augmented generation in real-time, ensuring grounded, verifiable answers directly from the source document.
+
+</td>
+<td valign="top" width="32%" align="center">
+
+![](https://img.shields.io/badge/Python-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/Mistral%207B%20%28QLoRA%29-0d1f1f?style=flat-square&color=17c3b2&logoColor=0d1f1f)
+![](https://img.shields.io/badge/FAISS-0d1f1f?style=flat-square&color=17c3b2&logoColor=0d1f1f)
+![](https://img.shields.io/badge/LangChain-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/FastAPI-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+![](https://img.shields.io/badge/HuggingFace-0d1f1f?style=flat-square&color=0e7c7b&logoColor=7fffd4)
+
+&nbsp;
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7fffd4?style=for-the-badge&logo=github&logoColor=0d1f1f)](https://github.com/Ayesha86527/Retrieval-Augmentation-Generation-RAG-and-Fine-tuned-Q-A-Model)
+
+</td>
+</tr>
+</table>
+
+---
+
 </div>
 
 ---
@@ -273,6 +390,14 @@ Architecture decisions are made before the first line of code — not after the 
 <div align="center">
 
 *Open to AI/ML collaborations, research partnerships, and freelance AI automation projects.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Noman-0e7c7b?style=for-the-badge&logo=linkedin&logoColor=7fffd4)](https://www.linkedin.com/in/ayesha-noman-268656321/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-17c3b2?style=for-the-badge&logo=gmail&logoColor=0d1f1f)](mailto:ayeshanoman490@gmail.com)
+
+<br/>
 
 </div>
 
