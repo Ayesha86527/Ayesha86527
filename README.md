@@ -29,6 +29,10 @@
 
 ## `// 01` &nbsp;ABOUT
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:B967FF,100:FF2BD6&height=3" />
+
+<sub>&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp; `ayesha@portfolio:~$ cat about.json`</sub>
+
 ```json
 {
   "name": "Ayesha Noman",
@@ -47,6 +51,10 @@
   "status": "open_to_collaboration"
 }
 ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2BD6,50:B967FF,100:00FFF9&height=3" />
+
+<br/>
 
 <div align="center">
 
