@@ -157,7 +157,7 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 
 ## `// 04` &nbsp;STACK.CONFIG
 
-**`LANG`** &nbsp;<sub>█ #00FFF9</sub>
+![LANG](https://img.shields.io/badge/LANG-00FFF9?style=for-the-badge&logoColor=0a0a0f)
 <br/>
 ![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00FFF9)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=00FFF9)
@@ -167,7 +167,7 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 
 <br/>
 
-**`AI/ML`** &nbsp;<sub>█ #FF2BD6</sub>
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF2BD6?style=for-the-badge&logoColor=0a0a0f)
 <br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=flat-square&logo=pytorch&logoColor=FF2BD6)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=flat-square&logo=huggingface&logoColor=FF2BD6)
@@ -183,7 +183,7 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 
 <br/>
 
-**`DATA`** &nbsp;<sub>█ #AEFE00</sub>
+![DATA](https://img.shields.io/badge/DATA-AEFE00?style=for-the-badge&logoColor=0a0a0f)
 <br/>
 ![FAISS](https://img.shields.io/badge/FAISS-0a0a0f?style=flat-square&logo=meta&logoColor=AEFE00)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0a0a0f?style=flat-square&logoColor=AEFE00)
@@ -195,7 +195,7 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 
 <br/>
 
-**`VOICE`** &nbsp;<sub>█ #FF9100</sub>
+![VOICE](https://img.shields.io/badge/VOICE-FF9100?style=for-the-badge&logoColor=0a0a0f)
 <br/>
 ![Whisper](https://img.shields.io/badge/Whisper-0a0a0f?style=flat-square&logo=openai&logoColor=FF9100)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0a0a0f?style=flat-square&logoColor=FF9100)
@@ -206,7 +206,7 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 
 <br/>
 
-**`WEB`** &nbsp;<sub>█ #B967FF</sub>
+![WEB](https://img.shields.io/badge/WEB-B967FF?style=for-the-badge&logoColor=0a0a0f)
 <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=flat-square&logo=nodedotjs&logoColor=B967FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0f?style=flat-square&logo=fastapi&logoColor=B967FF)
@@ -216,7 +216,7 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 
 <br/>
 
-**`CLOUD`** &nbsp;<sub>█ #FFF01F</sub>
+![CLOUD](https://img.shields.io/badge/CLOUD-FFF01F?style=for-the-badge&logoColor=0a0a0f)
 <br/>
 ![AWS](https://img.shields.io/badge/AWS-0a0a0f?style=flat-square&logo=amazonaws&logoColor=FFF01F)
 ![GCP](https://img.shields.io/badge/GCP-0a0a0f?style=flat-square&logo=googlecloud&logoColor=FFF01F)
