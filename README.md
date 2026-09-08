@@ -113,48 +113,35 @@
 
 ## `// 03` &nbsp;PROCESS LIST — FEATURED BUILDS
 
-<table>
-<tr><td width="100%">
-
-**`[PID 0001]`** &nbsp;**SIRENS** — Multi-Agent Urban Crisis Response System &nbsp; <img src="https://img.shields.io/badge/●_RUNNING-00FFF9?style=flat-square&labelColor=0a0a0f"/>
+**`[PID 0001]`** &nbsp;**SIRENS** — Multi-Agent Urban Crisis Response System &nbsp; ![](https://img.shields.io/badge/●_RUNNING-00FFF9?style=flat-square&labelColor=0a0a0f)
 
 Five-agent autonomous emergency-response loop: `Classifier → Planner → Executor → Verification → Evaluator`. Citizen-vote verification acts as a human-in-the-loop safeguard against false positives; full agent-trace transparency for authorities.
 
-<sub>`Google Genkit` `Gemini` `Firebase` `Google Maps API` `Expo/React Native` `Next.js`</sub>
-&nbsp;→&nbsp; [`view_repo`](https://github.com/Ayesha86527)
+<sub>`Google Genkit` `Gemini` `Firebase` `Google Maps API` `Expo/React Native` `Next.js`</sub> &nbsp;→&nbsp; [`view_repo`](https://github.com/Ayesha86527)
 
-</td></tr>
-<tr><td width="100%">
+<br/>
 
-**`[PID 0002]`** &nbsp;**Magitly** — Self-Healing CI/CD Pipeline &nbsp; <img src="https://img.shields.io/badge/●_PRIVATE-FF2BD6?style=flat-square&labelColor=0a0a0f"/>
+**`[PID 0002]`** &nbsp;**Magitly** — Self-Healing CI/CD Pipeline &nbsp; ![](https://img.shields.io/badge/●_PRIVATE-FF2BD6?style=flat-square&labelColor=0a0a0f)
 
 LangGraph pipeline: a `Planner` agent evaluates code changes before `Reviewer → Refactor → Testing` agents autonomously detect, fix, and validate issues. Pre-LLM secret-scanning gate blocks exposed credentials from reaching the model; a bounded 3-attempt retry-and-repair loop escalates instead of committing an unvalidated fix. GitHub-integrated via MCP with event-triggered pipeline dispatch.
 
-<sub>`LangGraph` `GitHub MCP` `Multi-Agent` `Secret Scanning` `CI/CD`</sub>
-&nbsp;→&nbsp; `access: restricted — available on request`
+<sub>`LangGraph` `GitHub MCP` `Multi-Agent` `Secret Scanning` `CI/CD`</sub> &nbsp;→&nbsp; `access: restricted — available on request`
 
-</td></tr>
-<tr><td width="100%">
+<br/>
 
-**`[PID 0003]`** &nbsp;**Watthai** — Karachi Energy Intelligence Platform &nbsp; <img src="https://img.shields.io/badge/●_LIVE-AEFE00?style=flat-square&labelColor=0a0a0f"/>
+**`[PID 0003]`** &nbsp;**Watthai** — Karachi Energy Intelligence Platform &nbsp; ![](https://img.shields.io/badge/●_LIVE-AEFE00?style=flat-square&labelColor=0a0a0f)
 
 OCR + Gemini 2.5 Flash pipeline reads K-Electric bills, flags Fuel Cost Adjustment anomalies, benchmarks usage by zone, and returns bilingual (EN/UR) savings advice. Crowdsourced outage network validates real-time power failures community-wide. Deployed as a PWA.
 
-<sub>`Next.js 15` `TypeScript` `Gemini 2.5 Flash` `Cloud Vision OCR` `Firebase` `PWA`</sub>
-&nbsp;→&nbsp; [`view_repo`](https://github.com/Ayesha86527/Watthai)
+<sub>`Next.js 15` `TypeScript` `Gemini 2.5 Flash` `Cloud Vision OCR` `Firebase` `PWA`</sub> &nbsp;→&nbsp; [`view_repo`](https://github.com/Ayesha86527/Watthai)
 
-</td></tr>
-<tr><td width="100%">
+<br/>
 
-**`[PID 0004]`** &nbsp;**ZameendarAI** — Global Land Suitability Intelligence &nbsp; <img src="https://img.shields.io/badge/●_LIVE-FF9100?style=flat-square&labelColor=0a0a0f"/>
+**`[PID 0004]`** &nbsp;**ZameendarAI** — Global Land Suitability Intelligence &nbsp; ![](https://img.shields.io/badge/●_LIVE-FF9100?style=flat-square&labelColor=0a0a0f)
 
 Scores any point on Earth for agriculture/housing/industry/renewables by synthesizing live weather, AQI, elevation, and population data through a Gemini 2.0 scoring pipeline with hard constraint logic. Returns ranked 0–100 scores, insights, and actionable recommendations.
 
-<sub>`Next.js 15` `Gemini 2.0 Flash` `Vercel AI SDK` `Google Maps API` `Open-Meteo`</sub>
-&nbsp;→&nbsp; [`view_repo`](https://github.com/Ayesha86527/ZameendarAI) &nbsp;·&nbsp; [`live_demo`](https://zameendar-ai.vercel.app)
-
-</td></tr>
-</table>
+<sub>`Next.js 15` `Gemini 2.0 Flash` `Vercel AI SDK` `Google Maps API` `Open-Meteo`</sub> &nbsp;→&nbsp; [`view_repo`](https://github.com/Ayesha86527/ZameendarAI) &nbsp;·&nbsp; [`live_demo`](https://zameendar-ai.vercel.app)
 
 <div align="center"><sub>+ PharmaGene · RAG+Fine-tuned QA · PSX pipeline — full list on <a href="https://github.com/Ayesha86527">GitHub →</a></sub></div>
 
@@ -162,33 +149,18 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 
 ## `// 04` &nbsp;STACK.CONFIG
 
-<table width="100%">
-<tr>
-<td width="20%" valign="top" align="center">
-
-**`LANG`**
-<br/><sub>█ #00FFF9</sub>
-
-</td>
-<td width="80%">
-
+**`LANG`** &nbsp;<sub>█ #00FFF9</sub>
+<br/>
 ![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00FFF9)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=00FFF9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=00FFF9)
 ![C++](https://img.shields.io/badge/C++-0a0a0f?style=flat-square&logo=cplusplus&logoColor=00FFF9)
 ![C#](https://img.shields.io/badge/C%23-0a0a0f?style=flat-square&logo=csharp&logoColor=00FFF9)
 
-</td>
-</tr>
-<tr>
-<td width="20%" valign="top" align="center">
+<br/>
 
-**`AI/ML`**
-<br/><sub>█ #FF2BD6</sub>
-
-</td>
-<td width="80%">
-
+**`AI/ML`** &nbsp;<sub>█ #FF2BD6</sub>
+<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=flat-square&logo=pytorch&logoColor=FF2BD6)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=flat-square&logo=huggingface&logoColor=FF2BD6)
 ![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=flat-square&logo=langchain&logoColor=FF2BD6)
@@ -201,17 +173,10 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 ![n8n](https://img.shields.io/badge/n8n-0a0a0f?style=flat-square&logo=n8n&logoColor=FF2BD6)
 ![MCP](https://img.shields.io/badge/MCP-0a0a0f?style=flat-square&logoColor=FF2BD6)
 
-</td>
-</tr>
-<tr>
-<td width="20%" valign="top" align="center">
+<br/>
 
-**`DATA`**
-<br/><sub>█ #AEFE00</sub>
-
-</td>
-<td width="80%">
-
+**`DATA`** &nbsp;<sub>█ #AEFE00</sub>
+<br/>
 ![FAISS](https://img.shields.io/badge/FAISS-0a0a0f?style=flat-square&logo=meta&logoColor=AEFE00)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0a0a0f?style=flat-square&logoColor=AEFE00)
 ![Qdrant](https://img.shields.io/badge/Qdrant-0a0a0f?style=flat-square&logoColor=AEFE00)
@@ -220,17 +185,10 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=flat-square&logo=mongodb&logoColor=AEFE00)
 ![Supabase](https://img.shields.io/badge/Supabase-0a0a0f?style=flat-square&logo=supabase&logoColor=AEFE00)
 
-</td>
-</tr>
-<tr>
-<td width="20%" valign="top" align="center">
+<br/>
 
-**`VOICE`**
-<br/><sub>█ #FF9100</sub>
-
-</td>
-<td width="80%">
-
+**`VOICE`** &nbsp;<sub>█ #FF9100</sub>
+<br/>
 ![Whisper](https://img.shields.io/badge/Whisper-0a0a0f?style=flat-square&logo=openai&logoColor=FF9100)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0a0a0f?style=flat-square&logoColor=FF9100)
 ![Deepgram](https://img.shields.io/badge/Deepgram-0a0a0f?style=flat-square&logoColor=FF9100)
@@ -238,43 +196,25 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 ![gTTS](https://img.shields.io/badge/gTTS-0a0a0f?style=flat-square&logo=google&logoColor=FF9100)
 ![Vapi](https://img.shields.io/badge/Vapi-0a0a0f?style=flat-square&logoColor=FF9100)
 
-</td>
-</tr>
-<tr>
-<td width="20%" valign="top" align="center">
+<br/>
 
-**`WEB`**
-<br/><sub>█ #B967FF</sub>
-
-</td>
-<td width="80%">
-
+**`WEB`** &nbsp;<sub>█ #B967FF</sub>
+<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=flat-square&logo=nodedotjs&logoColor=B967FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0f?style=flat-square&logo=fastapi&logoColor=B967FF)
 ![Express](https://img.shields.io/badge/Express.js-0a0a0f?style=flat-square&logo=express&logoColor=B967FF)
 ![React](https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=B967FF)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0f?style=flat-square&logo=nextdotjs&logoColor=B967FF)
 
-</td>
-</tr>
-<tr>
-<td width="20%" valign="top" align="center">
+<br/>
 
-**`CLOUD`**
-<br/><sub>█ #FFF01F</sub>
-
-</td>
-<td width="80%">
-
+**`CLOUD`** &nbsp;<sub>█ #FFF01F</sub>
+<br/>
 ![AWS](https://img.shields.io/badge/AWS-0a0a0f?style=flat-square&logo=amazonaws&logoColor=FFF01F)
 ![GCP](https://img.shields.io/badge/GCP-0a0a0f?style=flat-square&logo=googlecloud&logoColor=FFF01F)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-0a0a0f?style=flat-square&logo=alibabacloud&logoColor=FFF01F)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=FFF01F)
 ![Firebase](https://img.shields.io/badge/Firebase-0a0a0f?style=flat-square&logo=firebase&logoColor=FFF01F)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -301,7 +241,7 @@ Scores any point on Earth for agriculture/housing/industry/renewables by synthes
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=800&color=00FFF9&center=true&vCenter=true&width=700&lines=%24+status%3A+open_to_work;%24+echo+%22let's+build+something%22_;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=800&color=00FFF9&center=true&vCenter=true&width=700&lines=%24+status%3A+open_to_work;%24+echo+%22lets+build+something%22)](https://git.io/typing-svg)
 
 <br/>
 
